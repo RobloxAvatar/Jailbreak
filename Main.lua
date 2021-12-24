@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
-local Window = Library.CreateLib("Brookhaven", "Serpent")
+local Window = Library.CreateLib("Jailbreak", "Serpent")
 
 local MainTab = Window:NewTab("Main")
 
